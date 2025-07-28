@@ -98,7 +98,7 @@ FlappyBird/
 Name: Muhammad Adeel, Saad Tariq
 Semester: 2nd Semester
 Course: Object-Oriented Programming (OOP)
-Institution: Air University
+Institution: Air University Islamabad
 
 ------------------------------------------------------------
 📚 ACKNOWLEDGEMENTS
