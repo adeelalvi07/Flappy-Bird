@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mega Providers\\Desktop\\projects\\flappy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83F78170-7E21-4D58-A2AF-0F573862FC20}|flappy\\flappy.vcxproj|C:\\Users\\Mega Providers\\Desktop\\projects\\flappy\\flappy\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83F78170-7E21-4D58-A2AF-0F573862FC20}|flappy\\flappy.vcxproj|solutionrelative:flappy\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F78170-7E21-4D58-A2AF-0F573862FC20}|flappy\\flappy.vcxproj|C:\\Users\\Mega Providers\\Desktop\\projects\\flappy\\flappy\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83F78170-7E21-4D58-A2AF-0F573862FC20}|flappy\\flappy.vcxproj|solutionrelative:flappy\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F78170-7E21-4D58-A2AF-0F573862FC20}|flappy\\flappy.vcxproj|C:\\Users\\Mega Providers\\Desktop\\projects\\flappy\\flappy\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83F78170-7E21-4D58-A2AF-0F573862FC20}|flappy\\flappy.vcxproj|solutionrelative:flappy\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F78170-7E21-4D58-A2AF-0F573862FC20}|flappy\\flappy.vcxproj|C:\\Users\\Mega Providers\\Desktop\\projects\\flappy\\flappy\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83F78170-7E21-4D58-A2AF-0F573862FC20}|flappy\\flappy.vcxproj|solutionrelative:flappy\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F78170-7E21-4D58-A2AF-0F573862FC20}|flappy\\flappy.vcxproj|C:\\Users\\Mega Providers\\Desktop\\projects\\flappy\\flappy\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83F78170-7E21-4D58-A2AF-0F573862FC20}|flappy\\flappy.vcxproj|solutionrelative:flappy\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\Mega Providers\\Desktop\\projects\\flappy\\flappy\\Game.cpp",
+              "RelativeDocumentMoniker": "flappy\\Game.cpp",
+              "ToolTip": "C:\\Users\\Mega Providers\\Desktop\\projects\\flappy\\flappy\\Game.cpp",
+              "RelativeToolTip": "flappy\\Game.cpp",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-28T16:52:34.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\Mega Providers\\Desktop\\projects\\flappy\\flappy\\Game.h",
+              "RelativeDocumentMoniker": "flappy\\Game.h",
+              "ToolTip": "C:\\Users\\Mega Providers\\Desktop\\projects\\flappy\\flappy\\Game.h",
+              "RelativeToolTip": "flappy\\Game.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T05:57:23.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Mega Providers\\Desktop\\projects\\flappy\\flappy\\Main.cpp",
+              "RelativeDocumentMoniker": "flappy\\Main.cpp",
+              "ToolTip": "C:\\Users\\Mega Providers\\Desktop\\projects\\flappy\\flappy\\Main.cpp",
+              "RelativeToolTip": "flappy\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-28T06:24:53.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.h",
+              "DocumentMoniker": "C:\\Users\\Mega Providers\\Desktop\\projects\\flappy\\flappy\\Menu.h",
+              "RelativeDocumentMoniker": "flappy\\Menu.h",
+              "ToolTip": "C:\\Users\\Mega Providers\\Desktop\\projects\\flappy\\flappy\\Menu.h",
+              "RelativeToolTip": "flappy\\Menu.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-28T05:57:56.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cpp",
+              "DocumentMoniker": "C:\\Users\\Mega Providers\\Desktop\\projects\\flappy\\flappy\\Menu.cpp",
+              "RelativeDocumentMoniker": "flappy\\Menu.cpp",
+              "ToolTip": "C:\\Users\\Mega Providers\\Desktop\\projects\\flappy\\flappy\\Menu.cpp",
+              "RelativeToolTip": "flappy\\Menu.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-28T05:56:45.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
